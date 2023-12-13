@@ -33,6 +33,23 @@
       "message": "It works",
       "revId": "580eb93fd4196a8c31661b5091ca5da13dc0c98f",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "658714a1_4b5f8aeb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1037582
+      },
+      "writtenOn": "2023-12-13T15:13:16Z",
+      "side": 1,
+      "message": "Don\u0027t commit this code.",
+      "revId": "580eb93fd4196a8c31661b5091ca5da13dc0c98f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
